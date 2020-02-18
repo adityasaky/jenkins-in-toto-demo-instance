@@ -1,0 +1,35 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<flow-definition plugin="workflow-job@2.36">
+  <description></description>
+  <keepDependencies>false</keepDependencies>
+  <properties/>
+  <definition class="org.jenkinsci.plugins.workflow.cps.CpsFlowDefinition" plugin="workflow-cps@2.80">
+    <script>pipeline {
+    agent any
+    stages {
+        stage(&apos;Beta&apos;) {
+            //agent { label &apos;worker 1&apos; }
+            steps {
+                // Clone package
+                in_toto_wrap([&apos;stepName&apos;: &apos;Clone&apos;,
+                &apos;keyPath&apos;: &apos;/keys/bob&apos;,
+                &apos;transport&apos;: &apos;redis://&apos;]){
+                    sh label: &apos;download-source&apos;, script: &apos;git clone https://github.com/in-toto/demo-project&apos;
+                }
+                
+                // Create package
+                in_toto_wrap([&apos;stepName&apos;: &apos;Package&apos;,
+                &apos;keyPath&apos;: &apos;/keys/carl&apos;,
+                &apos;transport&apos;: &apos;redis://&apos;]){
+                    sh label: &apos;compress-for-release&apos;, script: &apos;tar --exclude .git -zcvf demo-project.tar.gz demo-project&apos;
+                }
+            }
+        }
+    }
+}
+</script>
+    <sandbox>true</sandbox>
+  </definition>
+  <triggers/>
+  <disabled>false</disabled>
+</flow-definition>
