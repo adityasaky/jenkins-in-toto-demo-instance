@@ -1,5 +1,14 @@
 <?xml version='1.1' encoding='UTF-8'?>
 <flow-definition plugin="workflow-job@2.36">
+  <actions>
+    <org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobAction plugin="pipeline-model-definition@1.5.1"/>
+    <org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobPropertyTrackerAction plugin="pipeline-model-definition@1.5.1">
+      <jobProperties/>
+      <triggers/>
+      <parameters/>
+      <options/>
+    </org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobPropertyTrackerAction>
+  </actions>
   <description></description>
   <keepDependencies>false</keepDependencies>
   <properties/>
@@ -11,17 +20,31 @@
             //agent { label &apos;worker 1&apos; }
             steps {
                 // Clone package
-                in_toto_wrap([&apos;stepName&apos;: &apos;Clone&apos;,
+                in_toto_wrap([&apos;stepName&apos;: &apos;clone&apos;,
                 &apos;keyPath&apos;: &apos;/keys/bob&apos;,
-                &apos;transport&apos;: &apos;redis://&apos;]){
-                    sh label: &apos;download-source&apos;, script: &apos;git clone https://github.com/in-toto/demo-project&apos;
+                &apos;transport&apos;: &apos;&apos;]){
+                    git &apos;https://github.com/in-toto/demo-project-jekyll&apos;
                 }
                 
-                // Create package
-                in_toto_wrap([&apos;stepName&apos;: &apos;Package&apos;,
+                // Jekyll build
+                in_toto_wrap([&apos;stepName&apos;: &apos;jekyll-build&apos;,
                 &apos;keyPath&apos;: &apos;/keys/carl&apos;,
-                &apos;transport&apos;: &apos;redis://&apos;]){
-                    sh label: &apos;compress-for-release&apos;, script: &apos;tar --exclude .git -zcvf demo-project.tar.gz demo-project&apos;
+                &apos;transport&apos;: &apos;&apos;]){
+                    sh label: &apos;jekyll-build&apos;, script: &apos;jekyll build&apos;
+                }
+
+                // HTML Linter
+                in_toto_wrap([&apos;stepName&apos;: &apos;html-linter&apos;,
+                &apos;keyPath&apos;: &apos;/keys/carl&apos;,
+                &apos;transport&apos;: &apos;&apos;]){
+                    sh label: &apos;html-linter&apos;, script: &apos;htmlproofer _site&apos;
+                }
+
+                // Docker build
+                in_toto_wrap([&apos;stepName&apos;: &apos;docker-build&apos;,
+                &apos;keyPath&apos;: &apos;/keys/carl&apos;,
+                &apos;transport&apos;: &apos;&apos;]){
+                    sh label: &apos;docker-build&apos;, script: &apos;docker build --iidfile docker_container_id -t jekyll-demo .&apos;
                 }
             }
         }

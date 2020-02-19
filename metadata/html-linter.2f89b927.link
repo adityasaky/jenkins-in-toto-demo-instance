@@ -1,0 +1,655 @@
+{
+  "signed": {
+    "materials": {
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/32/88463998af94110ce2544c11a8dd726aa401b5": {
+        "sha256": "40883acb762145892a74f2623e340fe7d60c1d4959e40390f22de36179b08b28"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/clone.776a00e2.link": {
+        "sha256": "a9e90b6ba4395a87ba3a67c7c0f5aa7221f76f360fb237ee9ff75dc92894a032"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/0f/b49989c69aa13ba2d2049b92ba923152507a5e": {
+        "sha256": "5832dbdc65edaa882c4b139308d3b5b18a2650e9074f6da75de9d24e10184768"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/2d/0d7255f3c0c963e0645dd00043f1ef8f1f6e14": {
+        "sha256": "0dac7baf0b60f891882b2bf41c8b789dce9d4b6f7c9580667bf245a74c48dfe4"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/css/main.scss": {
+        "sha256": "c58dff04588b76e156b5261e49d036e7e331d623036ec4d79d4d2c6b31b1f327"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/img/jekyll.png": {
+        "sha256": "599fc1e10374c4445d5bf21263cda4e7b51d70f4662b26f26b79db553ca3b6ce"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/7f/15c3e9dcd15c43770de324fec240093bbb4a68": {
+        "sha256": "ca4b541e968965135e5a355844c022e6dd5edbdf6d79ae36092a9a56afc6cb46"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/hooks/prepare-commit-msg.sample": {
+        "sha256": "f7e5627b5a26d0026ef50352f7393350ee58cc101f5e8337f944b57a5039968c"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.sass-cache/c6fcc023753502904fabea2c448ea0632b051390/main.scssc": {
+        "sha256": "ceb619c5935daa9c411ab11b24524f49e7c402a0fbd30df49bad2e8d5c0632f2"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/logs/refs/remotes/origin/compromise": {
+        "sha256": "012821b77567d916b17d4cf3a797b20f98116c9a0d3ccf9c0a8284f4432a90b8"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/description": {
+        "sha256": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/71/abdb662a62570061087139488b502641981d82": {
+        "sha256": "bbd74e5b2c1ab53bf9f24f9597fe704c17bb8ff3c9e19de1b6fe9b279e07e4b0"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/c2/2680ff8b9cdc57be9eb8c4c7c50c239abe687d": {
+        "sha256": "2889decc796ba9ec446d0454c1d608116d19b03238fe157ea8bd1056c6632018"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/52/5db9fe0e6d87827a28985960d4e1bb791bf05d": {
+        "sha256": "4c65c83de9eb8ec4ddda43098255342eae055a156543fca2143f6510b0402faa"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/3e/10afdfe6621271d7be881a752a08719bd8ae65": {
+        "sha256": "c5b083e39ff97d5056cfc3e8c715e55aa3893efd502187fd41ef6770b3d0ca05"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/fc/25bbab942bfbd0c6fe9651e98548ae9fe518cf": {
+        "sha256": "59de578ee26e258d678c1a21347ea450ac27b5d4bedc2f252401abde8d4778bf"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/76/388cc8c9e68909b2c86061507d382dff1d7e3b": {
+        "sha256": "58c98d58a56df03f28f9ac1a1d344da6258c61c47ac5d79bde9c0dcf1543a98b"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/LICENSE": {
+        "sha256": "04325a286eceaa6385ba320b804d1125dcdc316b6b08018906ceffc33470403d"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/refs/remotes/origin/master": {
+        "sha256": "688cf4bd46128d54da6e1ebf830d59aad136737539f86e8a1ef6030ef64d4e30"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/b5/44fdc3b748a32e24dae1ea0721644e9cb3bac8": {
+        "sha256": "e90f5e0ddb435d6836a97fd3004edb0b955a935d390c501029c6ceb733bd1bad"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/f9/b4706120c20fdfb70a82a17c8c45c056b6390e": {
+        "sha256": "5d65cf94d42bea4a80f32ee1c7639af9b494f60746ca85ab24830dec3d87f04a"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/jekyll-build.2f89b927.link": {
+        "sha256": "3ba480d1ba8981d02ffa3970c0ff5d1d13390399cdfe9e2b37aeac0cbf1cecbc"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/cc/6a8e134c0bc0d940b2f04f220cbfeb045a72cf": {
+        "sha256": "238f4069d408ca144b4b84f6d5bed1a6734ec3920749587307d71454ca7bc2fa"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/03/106bd8c30eaa18e459fdfa194d725cbc0f6412": {
+        "sha256": "e6891bc5ad5a86c08fd23c0ef9795213e8407ca4756e29ed57dbd9e73de3f086"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/logs/refs/remotes/origin/master": {
+        "sha256": "8c19bcd2a20193f1aa66969cad4178448798dbc16f9ff71254b20bd5b0749367"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/54/5527b7a55a84de5b26cac4d108a4650fc93964": {
+        "sha256": "18dff0c13bbf64dc78598ba87eda7b33f4b383c1082da174573d96c88d459318"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/HEAD": {
+        "sha256": "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/87/9840163274fa8831859ead41592dc214a3d3cb": {
+        "sha256": "7f3b00198c3eb2c367c8b595ea93c891b4cf525641b61456fafcccd8ad22d544"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/hooks/applypatch-msg.sample": {
+        "sha256": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/8c/059b629bfe679ac6f43faa233e6c235fd88bd4": {
+        "sha256": "1c17f5774cbfeede019284cb23a21dd938dd3ef58ef86a84307b164ae6e985e3"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/cb/fa7aee61496b86b2caedb3093874d689bc2d04": {
+        "sha256": "ed5007586a1650dc8a61f9cdb19eaaeb96889dfcbdf74251b14c3231a0eddccc"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/cf/e845656bc8ae76523909d01b7773f40544551f": {
+        "sha256": "9cb6f4d3cfbc46c2f7c12634f479beb9b49dc41c12d52bd9dc64782746fdb0bb"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/_site/clone.776a00e2.link": {
+        "sha256": "a9e90b6ba4395a87ba3a67c7c0f5aa7221f76f360fb237ee9ff75dc92894a032"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/_site/img/git.png": {
+        "sha256": "b2d7d61031f65522ee06f5d2a33905b455b88026c1f4f64e8340fb9aadbe91f9"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/a3/e1987780ec7eeaa7886fc37c44680aa72ae991": {
+        "sha256": "b2422cdd2c48c61f39bb70c06c7d9ccc71f2a6bf25ed2857a6fda2b7e7ce976d"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/01/f5245603afd30886b44714f8e76e44ead4f813": {
+        "sha256": "79669df74d33811251007862b90ea9b61de0de50dd381717300154076e435d5a"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/hooks/pre-receive.sample": {
+        "sha256": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/66/fff6b657c35217d0183de4aa7e3607ead7688f": {
+        "sha256": "e9f372e13f5651798da08310a11372b76f28b26b16d09632e85b423d6a17ece2"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/hooks/post-update.sample": {
+        "sha256": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/2c/a0500bafb0b5c930e419a0481bb19072cf0ba0": {
+        "sha256": "00a40afaaea1190f1a5a49a3c9500a9d6b291dbdf5622ff110615546d2a3a3bd"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/95/ce942ca469d0c7fbd415622def05c4c6b801c8": {
+        "sha256": "482a20cde2adf3ecfccf853a6512fff27e12f1f7ab4c1d6c93d9d17b13d9d5a9"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/98/0556e736dd700826a327dc186825d58c334a88": {
+        "sha256": "88e9afebd8741454a0c4f57f3adfbd569e15a51bc6ad410f9ed342c548bdc2d7"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/c6/df765179a031b3fbcb89d4f77a09397b2c3ce1": {
+        "sha256": "98f692f8562396cc1583f9530a33c63f08533a218eb2fb8f9986618ef706e48c"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/07/0ad64290011965040a16257b824636f5016dfc": {
+        "sha256": "b23c9d0d41a9ad54470f3716fa15836622bd0153ca62df7370e44f013e070cd9"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/logs/refs/heads/master": {
+        "sha256": "ccfef4f4b78a18a2484c0a9614fccae2ee596b5589d420b2e770d746d55dd360"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/c7/a7d8a171437212f05c252001de8c6273895062": {
+        "sha256": "cf06df660d3918018167e4b9191b9d61c5d2e2725df798bbe84fe3428d7247db"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/_sass/main.scss": {
+        "sha256": "dad8e62fef77914b8f14df6327a7152be771b8958c0a17964f9e6ce2dee1351e"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/ed/e1407f886938c2c54c7837ab18485a6806f9f8": {
+        "sha256": "730cc38df0f82fb1581a2f8af3d0d4afe2f1525c0a69469dc9d0dc6738bdc5b8"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/8b/f1e5b304152ff71dabdf6749e3a5adb31931d7": {
+        "sha256": "46ada414dbe258b29c821f42a627d21793fc5ea838b18fe822332c27c7174301"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/logs/HEAD": {
+        "sha256": "cad94f45922e7d01772f20031f73332da5be76a70ca6e85ce694a67235af18d3"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/refs/remotes/origin/compromise": {
+        "sha256": "de680029b48cc91f19a8aa43d9720ae7ffb42788c97a545d58f3bcbfcef5669f"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/ff/4482aa34351e425dbd28e141cd116a321fd63c": {
+        "sha256": "4ea4ae64e4640afcf3a1e99aff64e3029c0364388515facda1019ec5f91c4351"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/6c/e40830b7a4487acdf15d08e03b8090aa2c363e": {
+        "sha256": "f7b34c5434e1bdd077f7a4058b523d8025d4ce9aa76aa961145b8920e73ced23"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/ff/b65c4d7057ebc7ca636b57ea862d51fa5fd467": {
+        "sha256": "ba254f072eff70da888aaacb339af36af33720a2807285e44f4ff4f21c5750f3"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/5e/1d6577c387c28a094b306fe9760f65bbce0f9b": {
+        "sha256": "67f8bf331877926d622d10142b022abcd3a332966b99a337cb939a1ed5424964"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/FETCH_HEAD": {
+        "sha256": "ccbacdf7346c37979f9510d476e7f974c5b662b087626325df6dea5e7712c7fc"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/hooks/pre-commit.sample": {
+        "sha256": "12c723235131f1c5576c652ac2a0a007f261a93c0ddc445b1dcee6cd98e30788"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/_layouts/base.html": {
+        "sha256": "99b3ffdf9b73703b7d885618ba5c726c0c7ab2d00c195bfa528b79a5cc7e80e2"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/hooks/update.sample": {
+        "sha256": "751c037320024ec2ee2757f3ffae0b10ad2c946367684e7059d4dc97eac7e431"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/refs/heads/master": {
+        "sha256": "688cf4bd46128d54da6e1ebf830d59aad136737539f86e8a1ef6030ef64d4e30"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/f5/a50b1ce95102dcf1fccfe94a9ed69a006f647b": {
+        "sha256": "267689bcd6a557693c7912b2be983b59203f99b70f9f18e402a3f860dd96fd3b"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/_site/img/in_toto.png": {
+        "sha256": "b21331f16f826cc69de09b8d4a60e6468d9cdb2283d94a60244d71c504e64f17"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/d8/b29979aa8900373f685ec7fad6bfbb68d06e3d": {
+        "sha256": "eb2c8e98f56278f80b8867ea74a0ff6c41c55982d157d412d06ef73c520e5303"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/2b/4b4081ca54c475f06b113f52eab6989e24d52b": {
+        "sha256": "89239f14dc43346d389b59894dc11026ecfa4cb47e09b2a13f131fbf78cfe24c"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/2e/1ee56e7fac959753ad52c2aac99b76c7444630": {
+        "sha256": "d02cbe6eab56396df7c5aa891e4e264229daf80b6a81511131d0c7a1139fbe02"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/b2/eccccce533a91e993a7dced3757306b4347a50": {
+        "sha256": "ac8780d11e53741537959d620d173910832145eb7556ec9aa011d4817d6893de"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/README.md": {
+        "sha256": "6f10a3c4a33e39faf0060fe22afcd33da09390692a8092042f91bd01cf5bc56f"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/info/exclude": {
+        "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/51/00200828f51d74915c922600c22f51ea06aae0": {
+        "sha256": "53840f35ddaa0e33435edb3b84172bbc132f874ed148862d7fe87d84ea1ec98c"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/3c/a813a557ddbcfc75d3fef853a858dd6024650f": {
+        "sha256": "24c500a0e22484bb919d6f8ae0dfbda73170ebc9bbb0a9296c46576b529f95c6"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/hooks/commit-msg.sample": {
+        "sha256": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/img/in_toto.png": {
+        "sha256": "b21331f16f826cc69de09b8d4a60e6468d9cdb2283d94a60244d71c504e64f17"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/index": {
+        "sha256": "99b8a535f0ea9778bd175b496502b515315e14b5d4dc66c9bbd0f8b231f5e160"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/ba/0a15b4615edf27c22355e6321def20449881dd": {
+        "sha256": "0dd67a57283803c59d7bcdf9dc71e5d112cee06a25ef349e1a3e968b92ce8002"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/hooks/pre-rebase.sample": {
+        "sha256": "14b57168a2e847946ee1291e617cf6a0d8598387ba404565f1b18cc4c7f15651"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/ae/5970083d12a8d6f3c3500070c40b553587d681": {
+        "sha256": "ec42f5914dba904c3d536593ef7854d7bdaf73c228158fefa87e386d2b5747f3"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/hooks/pre-applypatch.sample": {
+        "sha256": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/_site/img/jekyll.png": {
+        "sha256": "599fc1e10374c4445d5bf21263cda4e7b51d70f4662b26f26b79db553ca3b6ce"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/img/docker.png": {
+        "sha256": "4a81827313f0c3fe32a84314d6ff00e753ec6a0d45e90423c21a5a4dcc2dacf4"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/b2/ebb949e3dc804009caedecc33fba2181ce03c5": {
+        "sha256": "f00237907e5d83635ae2d555141eef9770e30b5fc9ff44283266f08fdcf5a792"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/cb/2c3f7c8730225e67287a06da30ebb330f42bef": {
+        "sha256": "45eddc48069e3d0fdcc61fe6fe2fe1155319ad8347a61e234e09c23aac9470cf"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/00/73f86016f8c70aba8928d43a2cd62697b0f1e1": {
+        "sha256": "a3cdde2e0d61f1b0178d3173678bb35fe9e1df872cba79df7571840f5fed30cf"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/img/htmlproofer.png": {
+        "sha256": "9ce2905c55c9d4908ada85f378059c8fb3af6957b891eeedd599c0098e04e53a"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/24/cd60d331d5a22a9ab9b203b15df9ee45a4fe2e": {
+        "sha256": "b26e0354a304b2fd069dfd9db5431703f95dfa68f47adf2a498b6125dc3bce14"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/07/7a63f7910ca96d38659b41e48b181f6e20ea20": {
+        "sha256": "3f2f7d5ea18f540eb813bf67550ebbab6ae301ceddfa0018ebba7c27842a394d"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/index.html": {
+        "sha256": "035b8ce1eee1258c3b46e5d2d67d41131259261f06144ee601d0f159e760cb4e"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/hooks/pre-push.sample": {
+        "sha256": "4b1119e1e13a212571976f4aee77847cdbd40978546d6273a557e238981a40d1"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/img/git.png": {
+        "sha256": "b2d7d61031f65522ee06f5d2a33905b455b88026c1f4f64e8340fb9aadbe91f9"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/config": {
+        "sha256": "93c62486d5da5f20775d6bd59ee3eb31f6d06aee2325d85645ad1ca26370b230"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/72/2a0ff601e05ce5ad74f8600e1a1cee5487bc83": {
+        "sha256": "dc21b6dc358ba00d2cd59cdaa116f141862f041b6d236dc4b256e96992bde728"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/73/fce4eeb84cfe81de12320cf524ed4e24ea5be9": {
+        "sha256": "8e517286cee3760f1fbd1b8ee56c086bea76d43bb5fc3374e665fe74ab169aa8"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/_site/img/htmlproofer.png": {
+        "sha256": "9ce2905c55c9d4908ada85f378059c8fb3af6957b891eeedd599c0098e04e53a"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/d9/5f4204d39e924c8a090b3da65ee4737c3806d9": {
+        "sha256": "016d4d04e7b64bac52248c07b142d498f81e70df0e487477bce06bb1e4a75c50"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/79/790604273cf6de8a2866c6700de41e246d8371": {
+        "sha256": "3ac5afbc5235e5f3c83aa35e269dd799d07b296c8555c2f3bc2eb836f84d71aa"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/_site/index.html": {
+        "sha256": "d04173e102d98daa71721927860e6628653d111b96f60aea605485c9e695b2a2"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/Dockerfile": {
+        "sha256": "84d297887608502aa2c8f7cef388b9049441aff9e76d434d57dc176ebfd06eb8"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/7b/e848eb72add4a2df68e53dc84afad96c016a0e": {
+        "sha256": "7c772d3b31a140d955ee7a891776165bd29f0cdbab8aade5315e154f572fcbc4"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/_site/css/main.css": {
+        "sha256": "2eb590028e30ab31e54677f7cefee10d47a9d5a5cc51e36de792c6ed12872de8"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/_site/img/docker.png": {
+        "sha256": "4a81827313f0c3fe32a84314d6ff00e753ec6a0d45e90423c21a5a4dcc2dacf4"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/7e/4f42f40dbdc8e82f900918aeecdf765bb992d8": {
+        "sha256": "f2f67fa3090061fbd325d4d92949dc9ea3189d4fb3be15f47a9c04ab603b6bb4"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/f3/f8c8cb6e27cb438e431f8ed8f57555199eb5d5": {
+        "sha256": "6d3ae05b6417c85c73da0e4ef1e04bd94190769c614266cb933d0eb0a1ec756a"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/1b/c979fd28fd8c2f457ef8125d840cb4f024bb2c": {
+        "sha256": "9a7509f90195b3abfb513aeca5ffb61ef668456ff9ec91f7305c596734626b39"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/_config.yml": {
+        "sha256": "5d75ea54226c6005c6f78596e5bd9e0e65f0259f458588925d1bc5acea8545c6"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/9e/9190fe39c96beb2515a662584b1797f16a08c5": {
+        "sha256": "087943fec9ee456ba896e9db96bc18086a7ce52d384577936fada3cedc895eed"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/f4/6de65d0d777d427ff0faff053176fa42ddd967": {
+        "sha256": "f8ecd72627601695ee02afb73f6031bd95a47fff88184c57a308e17fecc757d5"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.gitignore": {
+        "sha256": "22b32352933e97a37f9c4c8f594ef46c6613cc81346bdd1057acf9f365d437cf"
+      }
+    },
+    "products": {
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/32/88463998af94110ce2544c11a8dd726aa401b5": {
+        "sha256": "40883acb762145892a74f2623e340fe7d60c1d4959e40390f22de36179b08b28"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/clone.776a00e2.link": {
+        "sha256": "a9e90b6ba4395a87ba3a67c7c0f5aa7221f76f360fb237ee9ff75dc92894a032"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/0f/b49989c69aa13ba2d2049b92ba923152507a5e": {
+        "sha256": "5832dbdc65edaa882c4b139308d3b5b18a2650e9074f6da75de9d24e10184768"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/2d/0d7255f3c0c963e0645dd00043f1ef8f1f6e14": {
+        "sha256": "0dac7baf0b60f891882b2bf41c8b789dce9d4b6f7c9580667bf245a74c48dfe4"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/css/main.scss": {
+        "sha256": "c58dff04588b76e156b5261e49d036e7e331d623036ec4d79d4d2c6b31b1f327"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/img/jekyll.png": {
+        "sha256": "599fc1e10374c4445d5bf21263cda4e7b51d70f4662b26f26b79db553ca3b6ce"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/7f/15c3e9dcd15c43770de324fec240093bbb4a68": {
+        "sha256": "ca4b541e968965135e5a355844c022e6dd5edbdf6d79ae36092a9a56afc6cb46"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/hooks/prepare-commit-msg.sample": {
+        "sha256": "f7e5627b5a26d0026ef50352f7393350ee58cc101f5e8337f944b57a5039968c"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.sass-cache/c6fcc023753502904fabea2c448ea0632b051390/main.scssc": {
+        "sha256": "ceb619c5935daa9c411ab11b24524f49e7c402a0fbd30df49bad2e8d5c0632f2"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/logs/refs/remotes/origin/compromise": {
+        "sha256": "012821b77567d916b17d4cf3a797b20f98116c9a0d3ccf9c0a8284f4432a90b8"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/description": {
+        "sha256": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/71/abdb662a62570061087139488b502641981d82": {
+        "sha256": "bbd74e5b2c1ab53bf9f24f9597fe704c17bb8ff3c9e19de1b6fe9b279e07e4b0"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/c2/2680ff8b9cdc57be9eb8c4c7c50c239abe687d": {
+        "sha256": "2889decc796ba9ec446d0454c1d608116d19b03238fe157ea8bd1056c6632018"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/52/5db9fe0e6d87827a28985960d4e1bb791bf05d": {
+        "sha256": "4c65c83de9eb8ec4ddda43098255342eae055a156543fca2143f6510b0402faa"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/3e/10afdfe6621271d7be881a752a08719bd8ae65": {
+        "sha256": "c5b083e39ff97d5056cfc3e8c715e55aa3893efd502187fd41ef6770b3d0ca05"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/fc/25bbab942bfbd0c6fe9651e98548ae9fe518cf": {
+        "sha256": "59de578ee26e258d678c1a21347ea450ac27b5d4bedc2f252401abde8d4778bf"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/76/388cc8c9e68909b2c86061507d382dff1d7e3b": {
+        "sha256": "58c98d58a56df03f28f9ac1a1d344da6258c61c47ac5d79bde9c0dcf1543a98b"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/LICENSE": {
+        "sha256": "04325a286eceaa6385ba320b804d1125dcdc316b6b08018906ceffc33470403d"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/refs/remotes/origin/master": {
+        "sha256": "688cf4bd46128d54da6e1ebf830d59aad136737539f86e8a1ef6030ef64d4e30"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/b5/44fdc3b748a32e24dae1ea0721644e9cb3bac8": {
+        "sha256": "e90f5e0ddb435d6836a97fd3004edb0b955a935d390c501029c6ceb733bd1bad"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/f9/b4706120c20fdfb70a82a17c8c45c056b6390e": {
+        "sha256": "5d65cf94d42bea4a80f32ee1c7639af9b494f60746ca85ab24830dec3d87f04a"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/jekyll-build.2f89b927.link": {
+        "sha256": "3ba480d1ba8981d02ffa3970c0ff5d1d13390399cdfe9e2b37aeac0cbf1cecbc"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/cc/6a8e134c0bc0d940b2f04f220cbfeb045a72cf": {
+        "sha256": "238f4069d408ca144b4b84f6d5bed1a6734ec3920749587307d71454ca7bc2fa"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/03/106bd8c30eaa18e459fdfa194d725cbc0f6412": {
+        "sha256": "e6891bc5ad5a86c08fd23c0ef9795213e8407ca4756e29ed57dbd9e73de3f086"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/logs/refs/remotes/origin/master": {
+        "sha256": "8c19bcd2a20193f1aa66969cad4178448798dbc16f9ff71254b20bd5b0749367"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/54/5527b7a55a84de5b26cac4d108a4650fc93964": {
+        "sha256": "18dff0c13bbf64dc78598ba87eda7b33f4b383c1082da174573d96c88d459318"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/HEAD": {
+        "sha256": "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/87/9840163274fa8831859ead41592dc214a3d3cb": {
+        "sha256": "7f3b00198c3eb2c367c8b595ea93c891b4cf525641b61456fafcccd8ad22d544"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/hooks/applypatch-msg.sample": {
+        "sha256": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/8c/059b629bfe679ac6f43faa233e6c235fd88bd4": {
+        "sha256": "1c17f5774cbfeede019284cb23a21dd938dd3ef58ef86a84307b164ae6e985e3"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/cb/fa7aee61496b86b2caedb3093874d689bc2d04": {
+        "sha256": "ed5007586a1650dc8a61f9cdb19eaaeb96889dfcbdf74251b14c3231a0eddccc"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/cf/e845656bc8ae76523909d01b7773f40544551f": {
+        "sha256": "9cb6f4d3cfbc46c2f7c12634f479beb9b49dc41c12d52bd9dc64782746fdb0bb"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/_site/clone.776a00e2.link": {
+        "sha256": "a9e90b6ba4395a87ba3a67c7c0f5aa7221f76f360fb237ee9ff75dc92894a032"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/_site/img/git.png": {
+        "sha256": "b2d7d61031f65522ee06f5d2a33905b455b88026c1f4f64e8340fb9aadbe91f9"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/a3/e1987780ec7eeaa7886fc37c44680aa72ae991": {
+        "sha256": "b2422cdd2c48c61f39bb70c06c7d9ccc71f2a6bf25ed2857a6fda2b7e7ce976d"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/01/f5245603afd30886b44714f8e76e44ead4f813": {
+        "sha256": "79669df74d33811251007862b90ea9b61de0de50dd381717300154076e435d5a"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/hooks/pre-receive.sample": {
+        "sha256": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/66/fff6b657c35217d0183de4aa7e3607ead7688f": {
+        "sha256": "e9f372e13f5651798da08310a11372b76f28b26b16d09632e85b423d6a17ece2"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/hooks/post-update.sample": {
+        "sha256": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/2c/a0500bafb0b5c930e419a0481bb19072cf0ba0": {
+        "sha256": "00a40afaaea1190f1a5a49a3c9500a9d6b291dbdf5622ff110615546d2a3a3bd"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/95/ce942ca469d0c7fbd415622def05c4c6b801c8": {
+        "sha256": "482a20cde2adf3ecfccf853a6512fff27e12f1f7ab4c1d6c93d9d17b13d9d5a9"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/98/0556e736dd700826a327dc186825d58c334a88": {
+        "sha256": "88e9afebd8741454a0c4f57f3adfbd569e15a51bc6ad410f9ed342c548bdc2d7"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/c6/df765179a031b3fbcb89d4f77a09397b2c3ce1": {
+        "sha256": "98f692f8562396cc1583f9530a33c63f08533a218eb2fb8f9986618ef706e48c"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/07/0ad64290011965040a16257b824636f5016dfc": {
+        "sha256": "b23c9d0d41a9ad54470f3716fa15836622bd0153ca62df7370e44f013e070cd9"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/logs/refs/heads/master": {
+        "sha256": "ccfef4f4b78a18a2484c0a9614fccae2ee596b5589d420b2e770d746d55dd360"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/c7/a7d8a171437212f05c252001de8c6273895062": {
+        "sha256": "cf06df660d3918018167e4b9191b9d61c5d2e2725df798bbe84fe3428d7247db"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/_sass/main.scss": {
+        "sha256": "dad8e62fef77914b8f14df6327a7152be771b8958c0a17964f9e6ce2dee1351e"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/ed/e1407f886938c2c54c7837ab18485a6806f9f8": {
+        "sha256": "730cc38df0f82fb1581a2f8af3d0d4afe2f1525c0a69469dc9d0dc6738bdc5b8"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/8b/f1e5b304152ff71dabdf6749e3a5adb31931d7": {
+        "sha256": "46ada414dbe258b29c821f42a627d21793fc5ea838b18fe822332c27c7174301"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/logs/HEAD": {
+        "sha256": "cad94f45922e7d01772f20031f73332da5be76a70ca6e85ce694a67235af18d3"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/refs/remotes/origin/compromise": {
+        "sha256": "de680029b48cc91f19a8aa43d9720ae7ffb42788c97a545d58f3bcbfcef5669f"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/ff/4482aa34351e425dbd28e141cd116a321fd63c": {
+        "sha256": "4ea4ae64e4640afcf3a1e99aff64e3029c0364388515facda1019ec5f91c4351"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/6c/e40830b7a4487acdf15d08e03b8090aa2c363e": {
+        "sha256": "f7b34c5434e1bdd077f7a4058b523d8025d4ce9aa76aa961145b8920e73ced23"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/ff/b65c4d7057ebc7ca636b57ea862d51fa5fd467": {
+        "sha256": "ba254f072eff70da888aaacb339af36af33720a2807285e44f4ff4f21c5750f3"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/5e/1d6577c387c28a094b306fe9760f65bbce0f9b": {
+        "sha256": "67f8bf331877926d622d10142b022abcd3a332966b99a337cb939a1ed5424964"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/FETCH_HEAD": {
+        "sha256": "ccbacdf7346c37979f9510d476e7f974c5b662b087626325df6dea5e7712c7fc"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/hooks/pre-commit.sample": {
+        "sha256": "12c723235131f1c5576c652ac2a0a007f261a93c0ddc445b1dcee6cd98e30788"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/_layouts/base.html": {
+        "sha256": "99b3ffdf9b73703b7d885618ba5c726c0c7ab2d00c195bfa528b79a5cc7e80e2"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/hooks/update.sample": {
+        "sha256": "751c037320024ec2ee2757f3ffae0b10ad2c946367684e7059d4dc97eac7e431"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/refs/heads/master": {
+        "sha256": "688cf4bd46128d54da6e1ebf830d59aad136737539f86e8a1ef6030ef64d4e30"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/f5/a50b1ce95102dcf1fccfe94a9ed69a006f647b": {
+        "sha256": "267689bcd6a557693c7912b2be983b59203f99b70f9f18e402a3f860dd96fd3b"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/_site/img/in_toto.png": {
+        "sha256": "b21331f16f826cc69de09b8d4a60e6468d9cdb2283d94a60244d71c504e64f17"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/d8/b29979aa8900373f685ec7fad6bfbb68d06e3d": {
+        "sha256": "eb2c8e98f56278f80b8867ea74a0ff6c41c55982d157d412d06ef73c520e5303"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/2b/4b4081ca54c475f06b113f52eab6989e24d52b": {
+        "sha256": "89239f14dc43346d389b59894dc11026ecfa4cb47e09b2a13f131fbf78cfe24c"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/2e/1ee56e7fac959753ad52c2aac99b76c7444630": {
+        "sha256": "d02cbe6eab56396df7c5aa891e4e264229daf80b6a81511131d0c7a1139fbe02"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/b2/eccccce533a91e993a7dced3757306b4347a50": {
+        "sha256": "ac8780d11e53741537959d620d173910832145eb7556ec9aa011d4817d6893de"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/README.md": {
+        "sha256": "6f10a3c4a33e39faf0060fe22afcd33da09390692a8092042f91bd01cf5bc56f"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/info/exclude": {
+        "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/51/00200828f51d74915c922600c22f51ea06aae0": {
+        "sha256": "53840f35ddaa0e33435edb3b84172bbc132f874ed148862d7fe87d84ea1ec98c"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/3c/a813a557ddbcfc75d3fef853a858dd6024650f": {
+        "sha256": "24c500a0e22484bb919d6f8ae0dfbda73170ebc9bbb0a9296c46576b529f95c6"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/hooks/commit-msg.sample": {
+        "sha256": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/img/in_toto.png": {
+        "sha256": "b21331f16f826cc69de09b8d4a60e6468d9cdb2283d94a60244d71c504e64f17"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/index": {
+        "sha256": "99b8a535f0ea9778bd175b496502b515315e14b5d4dc66c9bbd0f8b231f5e160"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/ba/0a15b4615edf27c22355e6321def20449881dd": {
+        "sha256": "0dd67a57283803c59d7bcdf9dc71e5d112cee06a25ef349e1a3e968b92ce8002"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/hooks/pre-rebase.sample": {
+        "sha256": "14b57168a2e847946ee1291e617cf6a0d8598387ba404565f1b18cc4c7f15651"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/ae/5970083d12a8d6f3c3500070c40b553587d681": {
+        "sha256": "ec42f5914dba904c3d536593ef7854d7bdaf73c228158fefa87e386d2b5747f3"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/hooks/pre-applypatch.sample": {
+        "sha256": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/_site/img/jekyll.png": {
+        "sha256": "599fc1e10374c4445d5bf21263cda4e7b51d70f4662b26f26b79db553ca3b6ce"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/img/docker.png": {
+        "sha256": "4a81827313f0c3fe32a84314d6ff00e753ec6a0d45e90423c21a5a4dcc2dacf4"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/b2/ebb949e3dc804009caedecc33fba2181ce03c5": {
+        "sha256": "f00237907e5d83635ae2d555141eef9770e30b5fc9ff44283266f08fdcf5a792"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/cb/2c3f7c8730225e67287a06da30ebb330f42bef": {
+        "sha256": "45eddc48069e3d0fdcc61fe6fe2fe1155319ad8347a61e234e09c23aac9470cf"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/00/73f86016f8c70aba8928d43a2cd62697b0f1e1": {
+        "sha256": "a3cdde2e0d61f1b0178d3173678bb35fe9e1df872cba79df7571840f5fed30cf"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/img/htmlproofer.png": {
+        "sha256": "9ce2905c55c9d4908ada85f378059c8fb3af6957b891eeedd599c0098e04e53a"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/24/cd60d331d5a22a9ab9b203b15df9ee45a4fe2e": {
+        "sha256": "b26e0354a304b2fd069dfd9db5431703f95dfa68f47adf2a498b6125dc3bce14"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/07/7a63f7910ca96d38659b41e48b181f6e20ea20": {
+        "sha256": "3f2f7d5ea18f540eb813bf67550ebbab6ae301ceddfa0018ebba7c27842a394d"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/index.html": {
+        "sha256": "035b8ce1eee1258c3b46e5d2d67d41131259261f06144ee601d0f159e760cb4e"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/hooks/pre-push.sample": {
+        "sha256": "4b1119e1e13a212571976f4aee77847cdbd40978546d6273a557e238981a40d1"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/img/git.png": {
+        "sha256": "b2d7d61031f65522ee06f5d2a33905b455b88026c1f4f64e8340fb9aadbe91f9"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/config": {
+        "sha256": "93c62486d5da5f20775d6bd59ee3eb31f6d06aee2325d85645ad1ca26370b230"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/72/2a0ff601e05ce5ad74f8600e1a1cee5487bc83": {
+        "sha256": "dc21b6dc358ba00d2cd59cdaa116f141862f041b6d236dc4b256e96992bde728"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/73/fce4eeb84cfe81de12320cf524ed4e24ea5be9": {
+        "sha256": "8e517286cee3760f1fbd1b8ee56c086bea76d43bb5fc3374e665fe74ab169aa8"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/_site/img/htmlproofer.png": {
+        "sha256": "9ce2905c55c9d4908ada85f378059c8fb3af6957b891eeedd599c0098e04e53a"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/d9/5f4204d39e924c8a090b3da65ee4737c3806d9": {
+        "sha256": "016d4d04e7b64bac52248c07b142d498f81e70df0e487477bce06bb1e4a75c50"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/79/790604273cf6de8a2866c6700de41e246d8371": {
+        "sha256": "3ac5afbc5235e5f3c83aa35e269dd799d07b296c8555c2f3bc2eb836f84d71aa"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/_site/index.html": {
+        "sha256": "d04173e102d98daa71721927860e6628653d111b96f60aea605485c9e695b2a2"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/Dockerfile": {
+        "sha256": "84d297887608502aa2c8f7cef388b9049441aff9e76d434d57dc176ebfd06eb8"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/7b/e848eb72add4a2df68e53dc84afad96c016a0e": {
+        "sha256": "7c772d3b31a140d955ee7a891776165bd29f0cdbab8aade5315e154f572fcbc4"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/_site/css/main.css": {
+        "sha256": "2eb590028e30ab31e54677f7cefee10d47a9d5a5cc51e36de792c6ed12872de8"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/_site/img/docker.png": {
+        "sha256": "4a81827313f0c3fe32a84314d6ff00e753ec6a0d45e90423c21a5a4dcc2dacf4"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/7e/4f42f40dbdc8e82f900918aeecdf765bb992d8": {
+        "sha256": "f2f67fa3090061fbd325d4d92949dc9ea3189d4fb3be15f47a9c04ab603b6bb4"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/f3/f8c8cb6e27cb438e431f8ed8f57555199eb5d5": {
+        "sha256": "6d3ae05b6417c85c73da0e4ef1e04bd94190769c614266cb933d0eb0a1ec756a"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/1b/c979fd28fd8c2f457ef8125d840cb4f024bb2c": {
+        "sha256": "9a7509f90195b3abfb513aeca5ffb61ef668456ff9ec91f7305c596734626b39"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/_config.yml": {
+        "sha256": "5d75ea54226c6005c6f78596e5bd9e0e65f0259f458588925d1bc5acea8545c6"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/9e/9190fe39c96beb2515a662584b1797f16a08c5": {
+        "sha256": "087943fec9ee456ba896e9db96bc18086a7ce52d384577936fada3cedc895eed"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.git/objects/f4/6de65d0d777d427ff0faff053176fa42ddd967": {
+        "sha256": "f8ecd72627601695ee02afb73f6031bd95a47fff88184c57a308e17fecc757d5"
+      },
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/.gitignore": {
+        "sha256": "22b32352933e97a37f9c4c8f594ef46c6613cc81346bdd1057acf9f365d437cf"
+      }
+    },
+    "byproducts": {},
+    "environment": {},
+    "command": [],
+    "name": "html-linter",
+    "_type": "link"
+  },
+  "signatures": [
+    {
+      "keyid": "2f89b9272acfc8f4a0a0f094d789fdb0ba798b0fe41f2f5f417c12f0085ff498",
+      "sig": "92d555aa9bfd12a01643afbbd2be9aec5bf76f5df907c9f90fb855b55a054b4d8e0284305775d52a9d7cf8d2b007a07ed07953a6d0ffea3a6803972f8a4d436b7a530c006719abb392290a91885af24d390c9ef78ccea7aec9dd5cf4c54bdce307b6691c635665c129c5f3b1ee5045611e2b9b14e30a25612cc9a7454b5135d1d46ba4d7e89b6ab9413630691c60f617e210c6ae317b10c7982ed7ebe34e487948c4b0c13883572815abd228f415a43547cc2b07820a9cc501298e487adb39d8292d9649c53644f6e39bef1bcfe0ab7152b557b29484a8ad84c890593816ff75975b0c2cc0dd440a79467eb4f0c2f51097669df6076b3d81d88ea46b08dd5f4c2ea5ae97944059c0d29a5218ac2ef9447f1bfd1b66a8abb81b5895cc90794c7975d3e6fb040ef2dc2a778735af4fc2b163283aaee0e8dc1461175ecc1083494074bf3b682135564fd5cec561e40a6df720a7070849799cdfc5f419d0a9a80d09f742182948d2c3282c08a83d4c53a236860c66e6f004905ebbcb19665cf0c568"
+    }
+  ]
+}

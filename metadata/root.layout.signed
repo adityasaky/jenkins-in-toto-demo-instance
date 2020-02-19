@@ -1,0 +1,427 @@
+{
+ "signatures": [
+  {
+   "keyid": "556caebdc0877eed53d419b60eddb1e57fa773e4e31d70698b588f3e9cc48b35",
+   "sig": "42288850e721bc7dee5704d051293206d541501beb3f0893031d6fae20593434340e2721dc616263920c48eb2166016fda03c93bfc0e68452cf8522d680e955bf24281842d013c635c8270ac81faaae8e39a47dce51793a7125f688603d55336ecce8b67e0b242d3b589d94043449c92231276a17f9d27c5627c02e03fdce93461021ecead98201f8d3ecad510d6192e618d9c6d1c97ae9f388e6dca8a275f8fcb3830b9e48482a5847d52194bcee0d92305bd6809e080722cae1e0dbf29ccddcd1e031243174cd4c41b9f06ca89fa2ccbb250f6c1da065bd1fca24f60bf92abd8875cbbacf98ff1be5dbb607006f7bf74d4a9a7f1df4ec86b774a6b95abae9b88ad5e3de84cef5fa5d3678a050f7d13e1f866f3a6cc7278375bc7133cd2c4b50df86a42c7669d848a69a1fea7cf3012ac7b889732d7d95e8b996d18f6e5f0621c7b815538bdc02300ad14ef4467848d2118e97a66620e4874e60b563aeaa15a47d7144ebdbf2597e7cc0c9d37aac95c62202752dc7208079f57c705542a33f9"
+  }
+ ],
+ "signed": {
+  "_type": "layout",
+  "expires": "2020-03-20T11:02:40Z",
+  "inspect": [
+   {
+    "_type": "inspection",
+    "expected_materials": [],
+    "expected_products": [
+     [
+      "CREATE",
+      "inspection_container_id"
+     ],
+     [
+      "MATCH",
+      "inspection_container_id",
+      "WITH",
+      "PRODUCTS",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "FROM",
+      "docker-build"
+     ]
+    ],
+    "name": "verify-docker-container-id",
+    "run": [
+     "sh",
+     "-c",
+     "docker image inspect jekyll-demo | jq -j -r .'[0]'.Id > inspection_container_id"
+    ]
+   }
+  ],
+  "keys": {
+   "2f89b9272acfc8f4a0a0f094d789fdb0ba798b0fe41f2f5f417c12f0085ff498": {
+    "keyid": "2f89b9272acfc8f4a0a0f094d789fdb0ba798b0fe41f2f5f417c12f0085ff498",
+    "keyid_hash_algorithms": [
+     "sha256",
+     "sha512"
+    ],
+    "keytype": "rsa",
+    "keyval": {
+     "private": "",
+     "public": "-----BEGIN PUBLIC KEY-----\nMIIBojANBgkqhkiG9w0BAQEFAAOCAY8AMIIBigKCAYEAzgLBsMFSgwBiWTBmVsyW\n5KbJwLFSodAzdUhU2Bq6SdRz/W6UOBGdojZXibxupjRtAaEQW/eXDe+1CbKg6ENZ\nGt2D9HGFCQZgQS8ONgNDQGiNxgApMA0T21AaUhru0vEofzdN1DfEF4CAGv5AkcgK\nsalhTyONervFIjFEdXGelFZ7dVMV3Pp5WkZPG0jFQWjnmDZhUrtSxEtqbVghc3kK\nAUj9Ll/3jyi2wS92Z1j5ueN8X62hWX2xBqQ6nViOMzdujkoiYCRSwuMLRqzW2CbT\nL8hF1+S5KWKFzxl5sCVfpPe7V5HkgEHjwCILXTbCn2fCMKlaSbJ/MG2lW7qSY2Ro\nwVXWkp1wDrsJ6Ii9f2dErv9vJeOVZeO9DsooQ5EuzLCfQLEU5mn7ul7bU7rFsb8J\nxYOeudkNBatnNCgVMAkmDPiNA7E33bmL5ARRwU0iZicsqLQR32pmwdap8PjofxqQ\nk7Gtvz/iYzaLrZv33cFWWTsEOqK1gKqigSqgW9T26wO9AgMBAAE=\n-----END PUBLIC KEY-----"
+    },
+    "scheme": "rsassa-pss-sha256"
+   },
+   "776a00e29f3559e0141b3b096f696abc6cfb0c657ab40f441132b345b08453f5": {
+    "keyid": "776a00e29f3559e0141b3b096f696abc6cfb0c657ab40f441132b345b08453f5",
+    "keyid_hash_algorithms": [
+     "sha256",
+     "sha512"
+    ],
+    "keytype": "rsa",
+    "keyval": {
+     "private": "",
+     "public": "-----BEGIN PUBLIC KEY-----\nMIIBojANBgkqhkiG9w0BAQEFAAOCAY8AMIIBigKCAYEA0Zfzonp3/FScaIP+KKuz\nB+OZNFpjbVGWjm3leqnFqHYLqrLcCw5KhlXpycJqoSvZBpO+PFCksUx8U/ryklHG\nVoDiB84pRkvZtBoVaA4b4IHDIhz1K5NqkJgieya4fwReTxmCW0a9gH7AnDicHBCX\nlzMxqEdt6OKMV5g4yjKaxf8lW72O1gSI46GSIToo+Z7UUgs3ofaM5UFIcczgCpUa\n5kEKocB6cSZ9U8PKRLSs0xO0ROjrcOTsfxMs8eV4bsRCWY5mAq1WM9EHDSV9WO8g\nqrRmanC4enNqa8jU4O3zhgJVegP9A01r9AwNt6AqgPSikwhXN/P4v1FMYV+R6N3b\nS1lsVWRAnwBq5RFz5zVvcY88JEkHbrcBqP/A4909NXae1VMXmnoJb4EzGAkyUySB\na+fHXAVJgzwyv3I48d/OIjH8NWcVmM/DQL7FtcJk3tp0YUjY5wNpcbQTnLzURtlU\nsd+MtGuvdlDxUUvtUYCIVKRdS8UzYnTPjI2xzeoSHZ2ZAgMBAAE=\n-----END PUBLIC KEY-----"
+    },
+    "scheme": "rsassa-pss-sha256"
+   }
+  },
+  "readme": "",
+  "steps": [
+   {
+    "_type": "step",
+    "expected_command": [],
+    "expected_materials": [
+     [
+      "DISALLOW",
+      "*"
+     ]
+    ],
+    "expected_products": [
+     [
+      "CREATE",
+      "*_layouts/*"
+     ],
+     [
+      "CREATE",
+      "*_sass/*"
+     ],
+     [
+      "CREATE",
+      "*css/*"
+     ],
+     [
+      "CREATE",
+      "*img/*"
+     ],
+     [
+      "CREATE",
+      "*.gitignore"
+     ],
+     [
+      "CREATE",
+      "*Dockerfile"
+     ],
+     [
+      "CREATE",
+      "*LICENSE"
+     ],
+     [
+      "CREATE",
+      "*README.md"
+     ],
+     [
+      "CREATE",
+      "*_config.yml"
+     ],
+     [
+      "CREATE",
+      "*index.html"
+     ],
+     [
+      "CREATE",
+      "*.git/*"
+     ],
+     [
+      "DISALLOW",
+      "*"
+     ]
+    ],
+    "name": "clone",
+    "pubkeys": [
+     "776a00e29f3559e0141b3b096f696abc6cfb0c657ab40f441132b345b08453f5"
+    ],
+    "threshold": 1
+   },
+   {
+    "_type": "step",
+    "expected_command": [],
+    "expected_materials": [
+     [
+      "MATCH",
+      "_layouts/*",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "WITH",
+      "PRODUCTS",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "FROM",
+      "clone"
+     ],
+     [
+      "MATCH",
+      "_sass/*",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "WITH",
+      "PRODUCTS",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "FROM",
+      "clone"
+     ],
+     [
+      "MATCH",
+      "css/*",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "WITH",
+      "PRODUCTS",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "FROM",
+      "clone"
+     ],
+     [
+      "MATCH",
+      "img/*",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "WITH",
+      "PRODUCTS",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "FROM",
+      "clone"
+     ],
+     [
+      "MATCH",
+      ".gitignore",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "WITH",
+      "PRODUCTS",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "FROM",
+      "clone"
+     ],
+     [
+      "MATCH",
+      "Dockerfile",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "WITH",
+      "PRODUCTS",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "FROM",
+      "clone"
+     ],
+     [
+      "MATCH",
+      "LICENSE",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "WITH",
+      "PRODUCTS",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "FROM",
+      "clone"
+     ],
+     [
+      "MATCH",
+      "README.md",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "WITH",
+      "PRODUCTS",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "FROM",
+      "clone"
+     ],
+     [
+      "MATCH",
+      "_config.yml",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "WITH",
+      "PRODUCTS",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "FROM",
+      "clone"
+     ],
+     [
+      "MATCH",
+      "index.html",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "WITH",
+      "PRODUCTS",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "FROM",
+      "clone"
+     ],
+     [
+      "MATCH",
+      ".git/*",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "WITH",
+      "PRODUCTS",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "FROM",
+      "clone"
+     ],
+     [
+      "ALLOW",
+      "*.link"
+     ],
+     [
+      "DISALLOW",
+      "*"
+     ]
+    ],
+    "expected_products": [
+     [
+      "CREATE",
+      "*_site/*"
+     ],
+     [
+      "CREATE",
+      "*.sass-cache/*"
+     ],
+     [
+      "MATCH",
+      "*",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "WITH",
+      "PRODUCTS",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "FROM",
+      "clone"
+     ],
+     [
+      "ALLOW",
+      "*.link"
+     ],
+     [
+      "DISALLOW",
+      "*"
+     ]
+    ],
+    "name": "jekyll-build",
+    "pubkeys": [
+     "2f89b9272acfc8f4a0a0f094d789fdb0ba798b0fe41f2f5f417c12f0085ff498"
+    ],
+    "threshold": 1
+   },
+   {
+    "_type": "step",
+    "expected_command": [],
+    "expected_materials": [
+     [
+      "MATCH",
+      "*",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "WITH",
+      "PRODUCTS",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "FROM",
+      "jekyll-build"
+     ],
+     [
+      "ALLOW",
+      "*.link"
+     ],
+     [
+      "DISALLOW",
+      "*"
+     ]
+    ],
+    "expected_products": [
+     [
+      "MATCH",
+      "*",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "WITH",
+      "MATERIALS",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "FROM",
+      "html-linter"
+     ],
+     [
+      "ALLOW",
+      "*.link"
+     ],
+     [
+      "DISALLOW",
+      "*"
+     ]
+    ],
+    "name": "html-linter",
+    "pubkeys": [
+     "2f89b9272acfc8f4a0a0f094d789fdb0ba798b0fe41f2f5f417c12f0085ff498"
+    ],
+    "threshold": 1
+   },
+   {
+    "_type": "step",
+    "expected_command": [],
+    "expected_materials": [
+     [
+      "MATCH",
+      "*",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "WITH",
+      "PRODUCTS",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "FROM",
+      "html-linter"
+     ],
+     [
+      "ALLOW",
+      "*.link"
+     ],
+     [
+      "DISALLOW",
+      "*"
+     ]
+    ],
+    "expected_products": [
+     [
+      "CREATE",
+      "*docker_container_id"
+     ],
+     [
+      "MATCH",
+      "*",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "WITH",
+      "MATERIALS",
+      "IN",
+      "/var/jenkins_home/jobs/in-toto-demo-pipeline/workspace/",
+      "FROM",
+      "docker-build"
+     ],
+     [
+      "ALLOW",
+      "*.link"
+     ],
+     [
+      "DISALLOW",
+      "*"
+     ]
+    ],
+    "name": "docker-build",
+    "pubkeys": [
+     "2f89b9272acfc8f4a0a0f094d789fdb0ba798b0fe41f2f5f417c12f0085ff498"
+    ],
+    "threshold": 1
+   }
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "signatures": [],
+ "signed": {
+  "_type": "link",
+  "byproducts": {
+   "return-value": 0,
+   "stderr": "",
+   "stdout": ""
+  },
+  "command": [
+   "sh",
+   "-c",
+   "docker image inspect jekyll-demo | jq -j -r .'[0]'.Id > inspection_container_id"
+  ],
+  "environment": {},
+  "materials": {
+   "root.layout": {
+    "sha256": "7878a06bfa4726b1ae4ad53ea39f3c6f303df3a0a390981d456442e28081c682"
+   },
+   "root.layout.signed": {
+    "sha256": "f5a36e1bc101e148b5372e7b173989f21c8fad4df4eebc2e9b416f444f744ae5"
+   }
+  },
+  "name": "verify-docker-container-id",
+  "products": {
+   "inspection_container_id": {
+    "sha256": "4c95b1b19ad6c056e9d7197eb631bb9b7ce506b09a5b03aca6cdae77add41b5b"
+   },
+   "root.layout": {
+    "sha256": "7878a06bfa4726b1ae4ad53ea39f3c6f303df3a0a390981d456442e28081c682"
+   },
+   "root.layout.signed": {
+    "sha256": "f5a36e1bc101e148b5372e7b173989f21c8fad4df4eebc2e9b416f444f744ae5"
+   }
+  }
+ }
+}
